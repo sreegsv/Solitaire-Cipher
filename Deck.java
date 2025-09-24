@@ -1,7 +1,7 @@
 //Name: Sreegovind Vineetha, Created for project in COMP250 McGill
 
 
-package assignment2;
+package Cipher;
 
 import java.util.Random;
 
