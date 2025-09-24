@@ -1,3 +1,6 @@
+//Name: Sreegovind Vineetha, Created for project in COMP250 McGill
+
+
 package Cipher
 public class SolitaireCipher {
 	public Deck key;
